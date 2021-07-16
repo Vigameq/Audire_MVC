@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Audire_Admin.AudireAdminService" CodeBehind="AudireAdminService.svc.cs" %>
